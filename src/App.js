@@ -26,7 +26,7 @@ function App() {
   ];
 
   let projects = [
-    "This is actually my first side project and the first time I've ever used HTML, CSS, and JavaScript. Look forward to more projects in the near future!"
+    "Aside from my CS course projects, this is actually my first side project and the first time I've ever used HTML, CSS, and JavaScript. Look forward to more projects in the near future!"
   ];
 
   let help = [
